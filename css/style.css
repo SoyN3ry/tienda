@@ -117,11 +117,13 @@ body{
     padding: 1rem;
     text-align: center;
     align-items: stretch;
+    height: 80vh;
 }
 .servicios-list{
     background-color: #eeb588;
     border-radius: 1rem;
     padding: 1rem;
+    align-content: center;
 }
 .servicios-list button{
     border: none;
@@ -242,7 +244,7 @@ body{
 .footer {
     background-color: #fb87b8;
     padding: 0.5 rem 0;
-    margin-top: 7rem;
+    margin-top: 0.5rem;
     
 }
 
